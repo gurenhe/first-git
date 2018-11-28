@@ -4,3 +4,5 @@ PHP 部分代码包括了获取 access_token 和 jsapi_ticket 的操作，只需
 
 注意事项：
 1. jsapi_ticket 的有效期为 7200 秒，开发者必须全局缓存 jsapi_ticket ，防止超过调用频率。
+2018年11月28日09:45:48
+
